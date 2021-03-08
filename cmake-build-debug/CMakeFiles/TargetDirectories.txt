@@ -1,0 +1,3 @@
+C:/Users/SAURABH SINGH/CLionProjects/TrickyCodingQuestions/cmake-build-debug/CMakeFiles/TrickyCodingQuestions.dir
+C:/Users/SAURABH SINGH/CLionProjects/TrickyCodingQuestions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SAURABH SINGH/CLionProjects/TrickyCodingQuestions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
